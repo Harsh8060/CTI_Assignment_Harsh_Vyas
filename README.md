@@ -1,5 +1,5 @@
 # CTI_Assignment_Harsh_Vyas
-## Task 3: Diamond Model Extraction — Rhysida Ransomware
+## Diamond Model Extraction — Rhysida Ransomware
 
 | Diamond Vertex | Extracted Information | Evidence from Report |
 |----------------|------------------------|------------------------|
