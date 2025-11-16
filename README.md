@@ -9,6 +9,7 @@
 | **Victim** | Education, healthcare, government, manufacturing | Report lists targeted organizations across sectors |
 
 **Threat Actor Profile Summary — Rhysida Ransomware**
+
 **1. Threat Actor Name**
 
 **Rhysida ransomware group**
