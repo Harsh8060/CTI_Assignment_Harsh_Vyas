@@ -34,3 +34,14 @@ Their primary market is for individuals in **schools, hospitals, government empl
 
 **To reduce the likelihood of Rhysida attacks, CISA says to put MFA on all remote access systems, keep internet-facing devices patched, minimize RDP exposure, and look for weird PowerShell or admin tool use.**
 Network zoning and well-constructed password policies also enable damage to remain small in case an attacker breaks in.
+
+**Reflection Questions**
+
+**1. How does the Diamond Model help in understanding threat actors?**
+The Diamond Model divides an attack into **four components** the attacker, the tools and networks he/she operates, what he/she is able to do, and with whom he/she targets. The model would have you **look at each part individually** as opposed to perceiving an attack as a single event. This will assist you in knowing **how the attacker operates, the reason why they operate, as well as their movements within a network.** It also displays the **relationship between the parts** providing a full picture of the threat.
+
+**2. What challenges did you face in identifying each vertex?**
+The most challenging part was to **clearly find the information for each section**, especially distinguishing between i**nfrastructure and capability**, as they often overlap in reports. Some reports do not directly list everything, so I had to interpret **what counted towards tools vs techniques**. The other challenge was to keep the details s**ummarized enough** to fit into each vertex without mixing any. Also understanding the group's **infrastructure** from the report took extra time since not every tool they used was explained.
+
+**3. How could this model support proactive defense strategies?**
+It helps defenders **identify patterns**. If you know what tools and infrastructure the attacker uses, then you can look for similar activity on your network. Understanding their capabilities can guide security teams on what controls to **harden**, whether it is credential protection or monitoring admin tools. Knowing what types of victims they target also aids organizations in those sectors in **early preparation**. In all, the Diamond Model provides a **structured way to think ahead** and put defenses in place before an attack occurs.
